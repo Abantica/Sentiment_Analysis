@@ -5,4 +5,4 @@ This is a dataset for binary sentiment classification containing substantially m
 Label	    Number of Samples
 Positive	25000
 Negative	25000
-Naive Bayes Classification has been used to classify the sentiments of the review.
+# Naive Bayes Classification has been used to classify the sentiments of the review.
